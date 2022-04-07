@@ -1,19 +1,19 @@
 {
-  "fb_banner": "420506583195348_420506976528642",
-  "fb_interstitial": "420506583195348_420507099861963",
-  "fb_native": "420506583195348_420507256528614",
+  "fb_banner": "258436889741961_258438163075167",
+  "fb_interstitial": "258436889741961_258438349741815",
+  "fb_native": "258436889741961_258438659741784",
 
-  "admob_pub_id": "pub-7542080399448643",
-  "admob_app_id": "ca-app-pub-7542080399448643~1464081751",
-  "admob_banner": "ca-app-pub-7542080399448643/2503182326",
+  "admob_pub_id": "pub-3940256099942544",
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
 
-  "admob_interstitial": "ca-app-pub-7542080399448643/2320183641",
-  "admob_native": "ca-app-pub-7542080399448643/7590506403",
-  "admob_open": "ca-app-pub-7542080399448643/2093980607",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native": "ca-app-pub-3940256099942544/2247696110",
+  "admob_open": "ca-app-pub-3940256099942544/3419835294",
 
-  "applovin_banner": "41aa934c26f5c9d9",
-  "applovin_inter": "8ff3ef1b7340aad0",
-  "applovin_native": "5a63dcd866aa97bb",
+  "applovin_banner": "f0e55c0545b7fc18",
+  "applovin_inter": "e36d7ba91453e0dd",
+  "applovin_native": "1db570ab8d9c555c",
 
   "new_pkg": "com.calculatorvaultapphider.calculatorvault.calculator.calculatorhideapp.calculatorlockapphider.photovault.videovault.calculatorlock",
   "is_version": "false",
