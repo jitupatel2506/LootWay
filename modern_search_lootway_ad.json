@@ -2,7 +2,7 @@
     "admob_interstitial": "ca-app-pub-7699605421941465/9009091328",
     "admob_rewarded": "ca-app-pub-7699605421941465/5211227759",
     "admob_open": "ca-app-pub-7699605421941465/9164950090",
-    "load_more":false,
+    "load_more":true,
     "new_pkg" : "com.videodly.tubemusic",
     "is_version" : "false"
   }
