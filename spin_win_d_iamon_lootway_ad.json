@@ -15,7 +15,7 @@
   "applovin_inter": "e36d7ba91453e0dd",
   "applovin_native": "1db570ab8d9c555c",
 
-  "update_checker":false,
+  "update_checker":true,
   "new_pkg": "com.spintowindiamond.ffdiamond.scratchdiamond.guideandfreediamondsforfree.spintoffdiamond.winffdiamond.lootway",
   "is_version": "false",
   "ad_type": "0"
