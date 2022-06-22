@@ -15,8 +15,9 @@
   "applovin_inter": "e36d7ba91453e0dd",
   "applovin_native": "1db570ab8d9c555c",
 
-  "load_more":false,
+  "update_checker":true,
   "new_pkg": "com.calculatorvaultapphider.calculatorvault.calculator.calculatorhideapp.calculatorlockapphider.photovault.videovault.calculatorlock",
   "is_version": "false",
   "ad_type": "0"
+  
 }
