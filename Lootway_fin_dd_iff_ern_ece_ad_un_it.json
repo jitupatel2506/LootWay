@@ -35,7 +35,7 @@
     }
   ],
 
-  "adType": "custom",
+  "adType": "admob",
   "adStatus": "admob",
   "loadMore":true,
   "adNativeCount":15,
